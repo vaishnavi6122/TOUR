@@ -792,7 +792,8 @@ h1{
     content: '';
     display: block;
     opacity: .6;
-    background-color: #000;
+    color: white;
+    background-color: rgb(88, 86, 86);
     -webkit-backface-visibility: hidden;
             backface-visibility: hidden;
     border-radius: 10px;
